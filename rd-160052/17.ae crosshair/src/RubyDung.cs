@@ -63,7 +63,7 @@ public class RubyDung : GameWindow {
         drawGUI = new DrawGUI(width, height, level);
         drawGUI.OnLoad();
 
-        crosshair = new Crosshair();
+        crosshair = new Crosshair(width, height);
         crosshair.OnLoad();
     }
 
