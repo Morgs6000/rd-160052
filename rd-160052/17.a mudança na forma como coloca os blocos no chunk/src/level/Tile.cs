@@ -8,7 +8,7 @@ public class Tile {
     public static readonly Tile grass = new Tile(2, 0);
 
     // Índice da textura do bloco no atlas de texturas
-    private int tex = 0;
+    private int tex;
     public readonly int id;
 
     private Tile(int id) {
