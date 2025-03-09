@@ -87,6 +87,14 @@ Geração de niveis
 - https://minecraft.wiki/w/Java_Edition_pre-Classic_rd-160052
 
 ## To-Do
+- ✅ Mudança na forma como coloca os blocos no chunk
+- ✅ Gerar um terreno usando Perlin Noise
+- ✅ Mais blocos
+- ✅ Tratando textura lateral
+- ✅ GUI
+- ❌ Crosshair
+- ❌ Gerar mobs
+- ✅ Fullscreen
 
 ## Progresso
 ### Perlin Noise
