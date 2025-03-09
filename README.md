@@ -93,6 +93,7 @@ Geração de niveis
 - ✅ Tratando textura lateral
 - ✅ GUI
 - ❌ Crosshair
+- ❌ Particulas
 - ❌ Gerar mobs
 - ✅ Fullscreen
 
