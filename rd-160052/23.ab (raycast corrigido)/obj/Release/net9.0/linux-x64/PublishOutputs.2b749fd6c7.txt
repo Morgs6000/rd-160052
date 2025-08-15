@@ -1,0 +1,12 @@
+D:\GitHub\Meus Repositórios\rd-132211\rd-132211\23. Publicando meu Jogo\bin\Release\net9.0\linux-x64\publish\RubyDung.pdb
+D:\GitHub\Meus Repositórios\rd-132211\rd-132211\23. Publicando meu Jogo\bin\Release\net9.0\linux-x64\publish\src\shaders\highlight_fragment.glsl
+D:\GitHub\Meus Repositórios\rd-132211\rd-132211\23. Publicando meu Jogo\bin\Release\net9.0\linux-x64\publish\src\shaders\highlight_vertex.glsl
+D:\GitHub\Meus Repositórios\rd-132211\rd-132211\23. Publicando meu Jogo\bin\Release\net9.0\linux-x64\publish\src\shaders\shader_fragment.glsl
+D:\GitHub\Meus Repositórios\rd-132211\rd-132211\23. Publicando meu Jogo\bin\Release\net9.0\linux-x64\publish\src\shaders\shader_vertex.glsl
+D:\GitHub\Meus Repositórios\rd-132211\rd-132211\23. Publicando meu Jogo\bin\Release\net9.0\linux-x64\publish\src\shaders\texture_fragment.glsl
+D:\GitHub\Meus Repositórios\rd-132211\rd-132211\23. Publicando meu Jogo\bin\Release\net9.0\linux-x64\publish\src\shaders\texture_vertex.glsl
+D:\GitHub\Meus Repositórios\rd-132211\rd-132211\23. Publicando meu Jogo\bin\Release\net9.0\linux-x64\publish\src\textures\openTK_logo.png
+D:\GitHub\Meus Repositórios\rd-132211\rd-132211\23. Publicando meu Jogo\bin\Release\net9.0\linux-x64\publish\src\textures\terrain.png
+D:\GitHub\Meus Repositórios\rd-132211\rd-132211\23. Publicando meu Jogo\bin\Release\net9.0\linux-x64\publish\libglfw-wayland.so.3.3
+D:\GitHub\Meus Repositórios\rd-132211\rd-132211\23. Publicando meu Jogo\bin\Release\net9.0\linux-x64\publish\libglfw.so.3.3
+D:\GitHub\Meus Repositórios\rd-132211\rd-132211\23. Publicando meu Jogo\bin\Release\net9.0\linux-x64\publish\RubyDung

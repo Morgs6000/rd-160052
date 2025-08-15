@@ -1,0 +1,11 @@
+D:\GitHub\Meus Repositórios\rd-132211\rd-132211\23. Publicando meu Jogo\pub\RubyDung.pdb
+D:\GitHub\Meus Repositórios\rd-132211\rd-132211\23. Publicando meu Jogo\pub\src\shaders\highlight_fragment.glsl
+D:\GitHub\Meus Repositórios\rd-132211\rd-132211\23. Publicando meu Jogo\pub\src\shaders\highlight_vertex.glsl
+D:\GitHub\Meus Repositórios\rd-132211\rd-132211\23. Publicando meu Jogo\pub\src\shaders\shader_fragment.glsl
+D:\GitHub\Meus Repositórios\rd-132211\rd-132211\23. Publicando meu Jogo\pub\src\shaders\shader_vertex.glsl
+D:\GitHub\Meus Repositórios\rd-132211\rd-132211\23. Publicando meu Jogo\pub\src\shaders\texture_fragment.glsl
+D:\GitHub\Meus Repositórios\rd-132211\rd-132211\23. Publicando meu Jogo\pub\src\shaders\texture_vertex.glsl
+D:\GitHub\Meus Repositórios\rd-132211\rd-132211\23. Publicando meu Jogo\pub\src\textures\openTK_logo.png
+D:\GitHub\Meus Repositórios\rd-132211\rd-132211\23. Publicando meu Jogo\pub\src\textures\terrain.png
+D:\GitHub\Meus Repositórios\rd-132211\rd-132211\23. Publicando meu Jogo\pub\glfw3.dll
+D:\GitHub\Meus Repositórios\rd-132211\rd-132211\23. Publicando meu Jogo\pub\RubyDung.exe
