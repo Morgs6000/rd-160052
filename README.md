@@ -87,5 +87,38 @@ Geração de niveis
 - https://minecraft.wiki/w/Java_Edition_pre-Classic_rd-160052
 
 ## To-Do
+- ✅ Mudança na forma como coloca os blocos no chunk
+- ✅ Gerar um terreno usando Perlin Noise
+- ✅ Mais blocos
+- ✅ Tratando textura lateral
+- ✅ GUI
+- ❌ Crosshair
+- ❌ Particulas
+- ❌ Gerar mobs
+- ✅ Fullscreen
 
 ## Progresso
+### Perlin Noise
+Gera uma seed aleatória cada vez que gera um novo mapa
+
+![Screenshot_455](https://github.com/user-attachments/assets/227c911c-38c0-48ac-b43c-21937291c289)
+
+### Mais Blocos
+![Screenshot_456](https://github.com/user-attachments/assets/33a3e47d-3787-4517-9798-cc33a0b068b5)
+
+ O **terrain.png** foi alterado de ![terrain](https://github.com/user-attachments/assets/00896d62-c014-4578-a88a-e68dce88e7c7) para ![terrain](https://github.com/user-attachments/assets/cdeeb9ec-4082-41ed-b0ba-3c3bbbbc1f6c).
+
+### Tradando Texturas Laterais
+![Screenshot_457](https://github.com/user-attachments/assets/7b0a2629-512d-4959-b8fb-59a70b72b041)
+
+### GUI
+![Screenshot_458](https://github.com/user-attachments/assets/fa3c2704-9287-4f6b-96d9-97ad6fb0b5e7)
+![Screenshot_459](https://github.com/user-attachments/assets/34558a47-dc16-47a9-af50-3f7d244be98f)
+![Screenshot_460](https://github.com/user-attachments/assets/97d3784b-1aeb-4632-9631-c88e2fcf94a9)
+![Screenshot_461](https://github.com/user-attachments/assets/85be4bb8-3b54-4a4e-bad1-13065a80f4ac)
+
+### Crosshair
+![Screenshot_462](https://github.com/user-attachments/assets/728007d1-d3e6-465d-8b8b-856e0e9c5ddc)
+
+### Fullscreen
+Aparentemente não da pra tirar print em fullscreen.
